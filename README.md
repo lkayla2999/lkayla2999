@@ -1,10 +1,10 @@
-<h1>Hi, I'm Kayla!</h1>
+<h1> Hi, I'm Kayla!</h1>
 
 <small> I have a bachelor’s of Science in Mathematics and I’m an intermediate Data Analyst with storytelling analytical skills utilizing research, data collection, excel, SQL,and Tableau.  
 
 Since I'm familiar with the duties of a Data Analyst, I’m expanding my skills to learn python with the help of SavvyCoders Data Analystics + Python Bootcamp. 
 
-  This gives me the opportunity to use learned knowledge and skills to make a good storyline from data. After enjoying a semester of freedom, I’ve decided to get back in the workforce and decided to work with a local animal shelter on any business problems they are facing. 
+  This gives me the opportunity to use learned knowledge and skills to make a good storyline from data. After enjoying a semester of freedom, I’ve decided to get back in the workforce. 
 
 So for my Capstone project, I was given the task to focus on “ the length of adult dogs in the shelter and foster care." </small>
  
