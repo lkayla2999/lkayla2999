@@ -14,46 +14,42 @@ So for my Capstone project, I was given the task to focus on “ the length of a
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 <h2>Excel</h2>
-<hr>
+
 <p>
   Data Cleaning <br>
   Data Analyzing <br>
  </p>
  
- <hr>
+
  
  <h2>Python</h2>
-<hr>
-<p>
-  Pnadas <br>
-  Data Cleaning <br>
-  Data Analyzing <br>
- </p>
+
+<br> Data Cleaning (skipping rows and saving data) </br>[Data Cleaning](https://github.com/lkayla2999/Capstone-Python)
  
- <hr>
+ 
  
  <h2>SQL</h2>
-<hr>
+
 <p>
   Create Table <br>
   Data Cleaning <br>
   Data Analyzing <br>
  </p>
  
-  <hr>
+
  
  <h2>Tableau</h2>
-<hr>
+
 <p>
   Create Table <br>
   Data Cleaning <br>
   Data Analyzing <br>
  </p>
  
- <hr>
+
  
  <h2>White Boarding</h2>
-<hr>
+
 <p>
  </p>
  
