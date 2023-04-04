@@ -15,9 +15,10 @@
 [<img align="left" alt="KaylaLucas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: //www.youtube.com/@LucasKay23
+[instagram]: https://www.instagram.com/kaylas_animation_therapy/
+[linkedin]: www.linkedin.com/in/kayla-lucas-393641182
+
 
 <!--
 **KaylaLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
