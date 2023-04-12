@@ -18,6 +18,11 @@ So for my Capstone project, I was given the task to focus on “ the length of a
 
 ### [YouTube Demonstration](https://youtu.be/Z8PHnhOB0Ps)
 
+<br>Part 2 : Agile </br>
+
+### [YouTube Demonstration](https://youtu.be/fRzb-cXYatU)
+
+
 <h2>Excel</h2>
 
 <br> Analyzing & cleaning data (Removing rows and saving as a xlsx/csv file) </br>[Data Cleaning](https://github.com/lkayla2999/Capstone_Excel)
