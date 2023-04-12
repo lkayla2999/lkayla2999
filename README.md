@@ -13,8 +13,10 @@ So for my Capstone project, I was given the task to focus on “ the length of a
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-<h2>Excel</h2>
+<h2>Presentataion</h2>
+<br>Part 1 : Interviewing Skills </br>
 
+<h2>Excel</h2>
 <br> Analyzing & cleaning data (Removing rows and saving as a xlsx/csv file) </br>[Data Cleaning](https://github.com/lkayla2999/Capstone_Excel)
  
 
