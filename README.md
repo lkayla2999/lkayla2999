@@ -4,7 +4,7 @@
 
 Since I'm familiar with the duties of a Data Analyst, I’m expanding my skills to learn python with the help of SavvyCoders Data Analystics + Python Bootcamp. 
 
-  This gives me the opportunity to use learned knowledge and skills to make a good storyline from data. After enjoying a semester of freedom, I’ve decided to get back in the workforce. 
+  This gives me the opportunity to use learned knowledge and skills to make a good storyline from data. After enjoying a 2 year break, I’ve decided to get back in the workforce. 
 
 So for my Capstone project, I was given the task to focus on “ the length of adult dogs in the shelter and foster care." </small>
  
